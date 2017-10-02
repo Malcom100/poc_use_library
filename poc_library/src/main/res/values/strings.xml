@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Poc_library</string>
+
+    <string name="btn_issue">Issue here</string>
+    <string name="btn_ar">Access request here</string>
+    <string name="preview_txt">My preview</string>
+</resources>
